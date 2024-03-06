@@ -1,0 +1,6 @@
+.menu li :hover
+     {
+     background-color:blue;
+     margin-top: -2;
+     padding-bottom: 12px;
+     }

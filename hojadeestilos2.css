@@ -1,0 +1,10 @@
+.menu li a 
+     {
+      font-family:Arial;   /*cambia la fuente*/
+      font-family:11px;    /*define el tamaño de la fuente*/
+      text-decoration:none;  /*con el valor none elimina las viñetas*/
+      float:left;  /*indica que los elementos flotan a la derecha del interior*/
+      padding:10px;  /*define el margen interno*/
+      background-color:#2175bc;  /*color de fondo*/
+      color;#fff;  /*color del texto*/
+     }
